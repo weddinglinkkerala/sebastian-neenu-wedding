@@ -1,0 +1,1 @@
+Top RSVP link retained; floating RSVP appears bottom-left after scrolling and hides whenever the RSVP card is in view. Music remains bottom-right. Google Form submissions are unverified; test in Responses before publishing. Add Gratitude - Brandon Lake (Cover) - James Wong.mp3 beside index.html; MP3 not included.
